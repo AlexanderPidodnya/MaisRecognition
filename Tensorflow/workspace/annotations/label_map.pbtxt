@@ -1,0 +1,16 @@
+item {
+	name:'mais'
+	id:1
+}
+item {
+	name:'dill'
+	id:2
+}
+item {
+	name:'buckwheat'
+	id:3
+}
+item {
+	name:'other'
+	id:4
+}
