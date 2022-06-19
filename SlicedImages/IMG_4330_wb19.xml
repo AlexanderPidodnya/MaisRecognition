@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resources</folder>
+	<filename>IMG_4330_wb.jpg</filename>
+	<path>D:/projects/CornClassifier/resources/IMG_4330_wb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>22</ymin>
+			<xmax>583</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
