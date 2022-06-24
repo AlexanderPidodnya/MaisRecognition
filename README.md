@@ -1,2 +1,2 @@
 # MaisRecognition
-Estimate quality of mais  
+Estimation quality of mais raw material
