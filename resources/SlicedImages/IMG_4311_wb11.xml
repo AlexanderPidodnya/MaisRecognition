@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>other</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>495</xmin>
-			<ymin>244</ymin>
-			<xmax>524</xmax>
-			<ymax>261</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>other</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>56</xmin>
-			<ymin>191</ymin>
-			<xmax>87</xmax>
-			<ymax>237</ymax>
+			<xmin>597</xmin>
+			<ymin>357</ymin>
+			<xmax>642</xmax>
+			<ymax>409</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>574</xmin>
-			<ymin>605</ymin>
-			<xmax>625</xmax>
-			<ymax>649</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>other</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>612</xmin>
-			<ymin>277</ymin>
-			<xmax>685</xmax>
-			<ymax>319</ymax>
+			<xmin>594</xmin>
+			<ymin>38</ymin>
+			<xmax>642</xmax>
+			<ymax>97</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>248</xmin>
-			<ymin>254</ymin>
-			<xmax>319</xmax>
-			<ymax>331</ymax>
+			<xmin>123</xmin>
+			<ymin>94</ymin>
+			<xmax>204</xmax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>629</xmin>
-			<ymin>324</ymin>
-			<xmax>729</xmax>
-			<ymax>404</ymax>
+			<xmin>176</xmin>
+			<ymin>308</ymin>
+			<xmax>243</xmax>
+			<ymax>393</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>194</xmin>
-			<ymin>50</ymin>
-			<xmax>279</xmax>
-			<ymax>145</ymax>
+			<xmin>372</xmin>
+			<ymin>192</ymin>
+			<xmax>455</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>-1</ymin>
+			<xmax>505</xmax>
+			<ymax>13</ymax>
 		</bndbox>
 	</object>
 </annotation>

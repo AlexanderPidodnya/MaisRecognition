@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>356</xmin>
-			<ymin>550</ymin>
-			<xmax>419</xmax>
-			<ymax>635</ymax>
+			<xmin>419</xmin>
+			<ymin>592</ymin>
+			<xmax>469</xmax>
+			<ymax>642</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>455</xmin>
-			<ymin>259</ymin>
-			<xmax>526</xmax>
-			<ymax>335</ymax>
+			<xmin>527</xmin>
+			<ymin>145</ymin>
+			<xmax>604</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>480</ymin>
+			<xmax>642</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>43</ymin>
+			<xmax>473</xmax>
+			<ymax>141</ymax>
 		</bndbox>
 	</object>
 </annotation>
