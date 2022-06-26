@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>291</xmin>
 			<ymin>524</ymin>
-			<xmax>335</xmax>
-			<ymax>529</ymax>
+			<xmax>339</xmax>
+			<ymax>533</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>547</xmin>
 			<ymin>300</ymin>
-			<xmax>595</xmax>
-			<ymax>357</ymax>
+			<xmax>599</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,20 @@
 		<bndbox>
 			<xmin>445</xmin>
 			<ymin>142</ymin>
-			<xmax>521</xmax>
-			<ymax>237</ymax>
+			<xmax>525</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>-1</ymin>
+			<xmax>618</xmax>
+			<ymax>38</ymax>
 		</bndbox>
 	</object>
 </annotation>

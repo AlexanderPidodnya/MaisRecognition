@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>554</xmin>
-			<ymin>628</ymin>
-			<xmax>599</xmax>
-			<ymax>672</ymax>
+			<xmin>596</xmin>
+			<ymin>357</ymin>
+			<xmax>642</xmax>
+			<ymax>409</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>12</ymin>
-			<xmax>82</xmax>
-			<ymax>71</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buckwheat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>0</xmin>
-			<ymin>550</ymin>
-			<xmax>46</xmax>
-			<ymax>600</ymax>
+			<xmin>594</xmin>
+			<ymin>34</ymin>
+			<xmax>642</xmax>
+			<ymax>93</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>132</xmin>
-			<ymin>521</ymin>
+			<xmin>123</xmin>
+			<ymin>95</ymin>
 			<xmax>204</xmax>
-			<ymax>611</ymax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>425</ymin>
-			<xmax>211</xmax>
-			<ymax>505</ymax>
+			<xmin>176</xmin>
+			<ymin>308</ymin>
+			<xmax>243</xmax>
+			<ymax>393</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,46 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>290</xmin>
-			<ymin>108</ymin>
-			<xmax>367</xmax>
-			<ymax>190</ymax>
+			<xmin>372</xmin>
+			<ymin>192</ymin>
+			<xmax>455</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>593</ymin>
-			<xmax>94</xmax>
-			<ymax>674</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>mais</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>205</xmin>
-			<ymin>589</ymin>
-			<xmax>285</xmax>
-			<ymax>681</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>mais</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>44</xmin>
-			<ymin>472</ymin>
-			<xmax>138</xmax>
-			<ymax>553</ymax>
+			<xmin>453</xmin>
+			<ymin>-1</ymin>
+			<xmax>505</xmax>
+			<ymax>14</ymax>
 		</bndbox>
 	</object>
 </annotation>

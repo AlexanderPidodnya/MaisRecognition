@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>401</xmin>
 			<ymin>261</ymin>
-			<xmax>447</xmax>
-			<ymax>313</ymax>
+			<xmax>451</xmax>
+			<ymax>317</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>371</xmin>
 			<ymin>138</ymin>
-			<xmax>452</xmax>
-			<ymax>221</ymax>
+			<xmax>456</xmax>
+			<ymax>225</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,20 @@
 		<bndbox>
 			<xmin>562</xmin>
 			<ymin>495</ymin>
-			<xmax>652</xmax>
-			<ymax>583</ymax>
+			<xmax>642</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>-1</ymin>
+			<xmax>355</xmax>
+			<ymax>48</ymax>
 		</bndbox>
 	</object>
 </annotation>

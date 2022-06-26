@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>other</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>371</xmin>
-			<ymin>584</ymin>
-			<xmax>423</xmax>
-			<ymax>617</ymax>
+			<xmin>268</xmin>
+			<ymin>252</ymin>
+			<xmax>304</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>558</xmin>
-			<ymin>628</ymin>
-			<xmax>602</xmax>
-			<ymax>672</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buckwheat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>48</xmin>
-			<ymin>12</ymin>
-			<xmax>82</xmax>
-			<ymax>71</ymax>
+			<xmin>107</xmin>
+			<ymin>581</ymin>
+			<xmax>137</xmax>
+			<ymax>632</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,46 +41,82 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>0</xmin>
-			<ymin>550</ymin>
-			<xmax>46</xmax>
-			<ymax>600</ymax>
+			<xmin>203</xmin>
+			<ymin>451</ymin>
+			<xmax>273</xmax>
+			<ymax>498</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>132</xmin>
-			<ymin>521</ymin>
-			<xmax>204</xmax>
-			<ymax>611</ymax>
+			<xmin>616</xmin>
+			<ymin>184</ymin>
+			<xmax>642</xmax>
+			<ymax>218</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>425</ymin>
-			<xmax>211</xmax>
+			<xmin>101</xmin>
+			<ymin>215</ymin>
+			<xmax>138</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>458</ymin>
+			<xmax>524</xmax>
 			<ymax>505</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>290</xmin>
-			<ymin>108</ymin>
-			<xmax>367</xmax>
-			<ymax>190</ymax>
+			<xmin>538</xmin>
+			<ymin>149</ymin>
+			<xmax>591</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>23</ymin>
+			<xmax>594</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>591</ymin>
+			<xmax>505</xmax>
+			<ymax>642</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>593</ymin>
-			<xmax>94</xmax>
-			<ymax>674</ymax>
+			<xmin>416</xmin>
+			<ymin>201</ymin>
+			<xmax>482</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>205</xmin>
-			<ymin>589</ymin>
-			<xmax>285</xmax>
-			<ymax>681</ymax>
+			<xmin>111</xmin>
+			<ymin>520</ymin>
+			<xmax>197</xmax>
+			<ymax>607</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +149,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>44</xmin>
-			<ymin>472</ymin>
-			<xmax>138</xmax>
-			<ymax>552</ymax>
+			<xmin>122</xmin>
+			<ymin>243</ymin>
+			<xmax>216</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>-1</xmin>
+			<ymin>460</ymin>
+			<xmax>14</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>-1</ymin>
+			<xmax>629</xmax>
+			<ymax>13</ymax>
 		</bndbox>
 	</object>
 </annotation>
