@@ -1,7 +1,7 @@
 <annotation>
-	<folder>resources</folder>
-	<filename>IMG_4310_wb.jpg</filename>
-	<path>D:/projects/CornClassifier/resources/IMG_4310_wb.jpg</path>
+	<folder>SlicedImages_2</folder>
+	<filename>IMG_4310_wb1.jpg</filename>
+	<path>IMG_4310_wb1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>other</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>626</xmin>
-			<ymin>42</ymin>
-			<xmax>687</xmax>
-			<ymax>91</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>481</xmin>
-			<ymin>353</ymin>
+			<xmin>483</xmin>
+			<ymin>354</ymin>
 			<xmax>557</xmax>
-			<ymax>442</ymax>
+			<ymax>441</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,7 +32,19 @@
 			<xmin>258</xmin>
 			<ymin>259</ymin>
 			<xmax>366</xmax>
-			<ymax>361</ymax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>45</ymin>
+			<xmax>640</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 </annotation>
