@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SlicedImages_3</folder>
+	<filename>IMG_4311_wb2.jpg</filename>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\SlicedImages_3\IMG_4311_wb2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>347</ymin>
+			<xmax>538</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
