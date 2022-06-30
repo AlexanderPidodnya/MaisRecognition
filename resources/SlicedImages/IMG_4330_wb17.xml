@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resources</folder>
 	<filename>IMG_4330_wb.jpg</filename>
-	<path>D:/projects/CornClassifier/resources/IMG_4330_wb.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\resources\IMG_4330_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>531</xmin>
 			<ymin>509</ymin>
-			<xmax>582</xmax>
-			<ymax>546</ymax>
+			<xmax>586</xmax>
+			<ymax>550</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>377</xmin>
 			<ymin>546</ymin>
-			<xmax>428</xmax>
-			<ymax>587</ymax>
+			<xmax>432</xmax>
+			<ymax>591</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>162</xmin>
 			<ymin>449</ymin>
-			<xmax>235</xmax>
-			<ymax>525</ymax>
+			<xmax>239</xmax>
+			<ymax>529</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>524</xmin>
 			<ymin>142</ymin>
-			<xmax>602</xmax>
-			<ymax>221</ymax>
+			<xmax>606</xmax>
+			<ymax>225</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>177</xmin>
 			<ymin>266</ymin>
-			<xmax>255</xmax>
-			<ymax>344</ymax>
+			<xmax>259</xmax>
+			<ymax>348</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>620</xmin>
 			<ymin>491</ymin>
-			<xmax>694</xmax>
-			<ymax>579</ymax>
+			<xmax>698</xmax>
+			<ymax>583</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>615</xmin>
 			<ymin>582</ymin>
-			<xmax>698</xmax>
-			<ymax>664</ymax>
+			<xmax>702</xmax>
+			<ymax>668</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -103,8 +103,8 @@
 		<bndbox>
 			<xmin>329</xmin>
 			<ymin>118</ymin>
-			<xmax>407</xmax>
-			<ymax>214</ymax>
+			<xmax>411</xmax>
+			<ymax>218</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,8 +115,8 @@
 		<bndbox>
 			<xmin>429</xmin>
 			<ymin>362</ymin>
-			<xmax>500</xmax>
-			<ymax>454</ymax>
+			<xmax>504</xmax>
+			<ymax>458</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>resources</folder>
+	<folder>SlicedImages_2</folder>
 	<filename>IMG_4310_wb16.jpg</filename>
-	<path>IMG_4310_wb16.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\SlicedImages_2\IMG_4310_wb16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -38,7 +38,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>606</xmin>
@@ -50,7 +50,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>635</xmin>
@@ -74,7 +74,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>276</xmin>
@@ -122,7 +122,7 @@
 	<object>
 		<name>buckwheat</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
@@ -134,11 +134,11 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>377</xmin>
-			<ymin>-1</ymin>
+			<ymin>1</ymin>
 			<xmax>428</xmax>
 			<ymax>82</ymax>
 		</bndbox>
@@ -161,7 +161,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>130</xmin>
+			<xmin>174</xmin>
 			<ymin>88</ymin>
 			<xmax>246</xmax>
 			<ymax>183</ymax>
@@ -177,6 +177,30 @@
 			<ymin>322</ymin>
 			<xmax>572</xmax>
 			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>324</ymin>
+			<xmax>91</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1</ymin>
+			<xmax>115</xmax>
+			<ymax>41</ymax>
 		</bndbox>
 	</object>
 </annotation>
