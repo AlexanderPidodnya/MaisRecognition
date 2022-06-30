@@ -353,10 +353,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>813</xmin>
-			<ymin>723</ymin>
+			<xmin>811</xmin>
+			<ymin>728</ymin>
 			<xmax>886</xmax>
-			<ymax>823</ymax>
+			<ymax>821</ymax>
 		</bndbox>
 	</object>
 	<object>

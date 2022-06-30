@@ -1,7 +1,7 @@
 <annotation>
-	<folder>MaisRecognition</folder>
-	<filename>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\SlicedImages1280\IMG_4310_wb12.jpg</filename>
-	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\IMG_4310_wb.jpg</path>
+	<folder>SlicedImages1280</folder>
+	<filename>IMG_4310_wb12.jpg</filename>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\SlicedImages1280\IMG_4310_wb12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -26,7 +26,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1249</xmin>
@@ -158,7 +158,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1251</xmin>
@@ -266,7 +266,7 @@
 	<object>
 		<name>buckwheat</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1093</xmin>
@@ -290,7 +290,7 @@
 	<object>
 		<name>other</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1251</xmin>
@@ -314,7 +314,7 @@
 	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>280</xmin>
@@ -422,7 +422,7 @@
 	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1269</xmin>
@@ -441,6 +441,42 @@
 			<ymin>50</ymin>
 			<xmax>923</xmax>
 			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>39</ymin>
+			<xmax>49</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>1</ymin>
+			<xmax>731</xmax>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mais</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>2</ymin>
+			<xmax>927</xmax>
+			<ymax>43</ymax>
 		</bndbox>
 	</object>
 </annotation>

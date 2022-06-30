@@ -1,7 +1,7 @@
 <annotation>
-	<folder>SlicedImages1280</folder>
+	<folder>MaisRecognition</folder>
 	<filename>IMG_4310_wb5.jpg</filename>
-	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\SlicedImages1280\IMG_4310_wb5.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\IMG_4310_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -26,7 +26,7 @@
 	<object>
 		<name>buckwheat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1131</xmin>
@@ -182,7 +182,7 @@
 	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1208</xmin>
@@ -242,7 +242,7 @@
 	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1250</xmin>
@@ -326,7 +326,7 @@
 	<object>
 		<name>mais</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>481</xmin>
@@ -417,18 +417,6 @@
 			<ymin>331</ymin>
 			<xmax>214</xmax>
 			<ymax>426</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>mais</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>910</ymin>
-			<xmax>47</xmax>
-			<ymax>998</ymax>
 		</bndbox>
 	</object>
 </annotation>

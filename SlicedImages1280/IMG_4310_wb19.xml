@@ -407,16 +407,4 @@
 			<ymax>280</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>mais</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>563</ymin>
-			<xmax>25</xmax>
-			<ymax>667</ymax>
-		</bndbox>
-	</object>
 </annotation>
