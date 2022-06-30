@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resources</folder>
 	<filename>IMG_4310_wb.jpg</filename>
-	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\resources\IMG_4310_wb.jpg</path>
+	<path>D:/projects/CornClassifier/resources/IMG_4310_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mais</name>
+		<name>buckwheat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>160</xmin>
-			<ymin>165</ymin>
-			<xmax>244</xmax>
-			<ymax>254</ymax>
+			<xmin>596</xmin>
+			<ymin>357</ymin>
+			<xmax>643</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buckwheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>34</ymin>
+			<xmax>641</xmax>
+			<ymax>89</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>260</xmin>
-			<ymin>222</ymin>
-			<xmax>346</xmax>
-			<ymax>308</ymax>
+			<xmin>123</xmin>
+			<ymin>95</ymin>
+			<xmax>200</xmax>
+			<ymax>162</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
-			<ymin>284</ymin>
-			<xmax>262</xmax>
-			<ymax>365</ymax>
+			<xmin>176</xmin>
+			<ymin>308</ymin>
+			<xmax>239</xmax>
+			<ymax>389</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>130</ymin>
-			<xmax>142</xmax>
-			<ymax>219</ymax>
+			<xmin>372</xmin>
+			<ymin>192</ymin>
+			<xmax>451</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 </annotation>

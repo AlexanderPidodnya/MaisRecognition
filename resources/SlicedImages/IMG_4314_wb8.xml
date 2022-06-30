@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resources</folder>
 	<filename>IMG_4314_wb.jpg</filename>
-	<path>D:/projects/CornClassifier/resources/IMG_4314_wb.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\resources\IMG_4314_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>335</xmin>
 			<ymin>436</ymin>
-			<xmax>367</xmax>
-			<ymax>475</ymax>
+			<xmax>371</xmax>
+			<ymax>479</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>281</xmin>
 			<ymin>76</ymin>
-			<xmax>316</xmax>
-			<ymax>127</ymax>
+			<xmax>320</xmax>
+			<ymax>131</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>86</xmin>
 			<ymin>218</ymin>
-			<xmax>133</xmax>
-			<ymax>261</ymax>
+			<xmax>137</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>186</xmin>
 			<ymin>21</ymin>
-			<xmax>229</xmax>
-			<ymax>72</ymax>
+			<xmax>233</xmax>
+			<ymax>76</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>522</xmin>
 			<ymin>206</ymin>
-			<xmax>591</xmax>
-			<ymax>281</ymax>
+			<xmax>595</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>342</xmin>
 			<ymin>57</ymin>
-			<xmax>416</xmax>
-			<ymax>136</ymax>
+			<xmax>420</xmax>
+			<ymax>140</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resources</folder>
 	<filename>IMG_4324_wb.jpg</filename>
-	<path>D:/projects/CornClassifier/resources/IMG_4324_wb.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\resources\IMG_4324_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>579</xmin>
 			<ymin>164</ymin>
-			<xmax>612</xmax>
-			<ymax>188</ymax>
+			<xmax>616</xmax>
+			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>52</xmin>
 			<ymin>485</ymin>
-			<xmax>124</xmax>
-			<ymax>530</ymax>
+			<xmax>128</xmax>
+			<ymax>534</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>330</xmin>
 			<ymin>52</ymin>
-			<xmax>414</xmax>
-			<ymax>129</ymax>
+			<xmax>418</xmax>
+			<ymax>133</ymax>
 		</bndbox>
 	</object>
 </annotation>

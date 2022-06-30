@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resources</folder>
 	<filename>IMG_4312_wb.jpg</filename>
-	<path>D:/projects/CornClassifier/resources/IMG_4312_wb.jpg</path>
+	<path>C:\Users\AdminAsus\PycharmProjects\MaisRecognition\resources\IMG_4312_wb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>285</xmin>
 			<ymin>211</ymin>
-			<xmax>318</xmax>
-			<ymax>251</ymax>
+			<xmax>322</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>527</xmin>
 			<ymin>617</ymin>
-			<xmax>560</xmax>
-			<ymax>661</ymax>
+			<xmax>564</xmax>
+			<ymax>665</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>410</xmin>
 			<ymin>116</ymin>
-			<xmax>460</xmax>
-			<ymax>144</ymax>
+			<xmax>464</xmax>
+			<ymax>148</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>434</xmin>
 			<ymin>383</ymin>
-			<xmax>476</xmax>
-			<ymax>438</ymax>
+			<xmax>480</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>554</xmin>
 			<ymin>422</ymin>
-			<xmax>602</xmax>
-			<ymax>477</ymax>
+			<xmax>606</xmax>
+			<ymax>481</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>391</xmin>
 			<ymin>301</ymin>
-			<xmax>442</xmax>
-			<ymax>352</ymax>
+			<xmax>446</xmax>
+			<ymax>356</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>322</xmin>
 			<ymin>125</ymin>
-			<xmax>383</xmax>
-			<ymax>174</ymax>
+			<xmax>387</xmax>
+			<ymax>178</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -103,8 +103,8 @@
 		<bndbox>
 			<xmin>475</xmin>
 			<ymin>35</ymin>
-			<xmax>526</xmax>
-			<ymax>89</ymax>
+			<xmax>530</xmax>
+			<ymax>93</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,8 +115,8 @@
 		<bndbox>
 			<xmin>239</xmin>
 			<ymin>452</ymin>
-			<xmax>317</xmax>
-			<ymax>532</ymax>
+			<xmax>321</xmax>
+			<ymax>536</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -127,8 +127,8 @@
 		<bndbox>
 			<xmin>74</xmin>
 			<ymin>19</ymin>
-			<xmax>161</xmax>
-			<ymax>98</ymax>
+			<xmax>165</xmax>
+			<ymax>102</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -139,8 +139,8 @@
 		<bndbox>
 			<xmin>479</xmin>
 			<ymin>3</ymin>
-			<xmax>514</xmax>
-			<ymax>32</ymax>
+			<xmax>518</xmax>
+			<ymax>36</ymax>
 		</bndbox>
 	</object>
 </annotation>
